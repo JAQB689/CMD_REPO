@@ -1,3 +1,1 @@
-﻿#TEST MSG
-
-random gibberish
+﻿#AABBCC
